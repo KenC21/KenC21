@@ -1,6 +1,7 @@
-📌 Hi, I'm Ken 📌
+# 📌 Hi, I'm Ken 📌
 
 🚧🚧🚧Welcome to my page🚧🚧🚧
+
 **🚥`ProblemTinker(Developer/Gamer/Searcher)`🚥**
 
 I'm a freelancer full-stack developer and love to share my journey on the digital space. 
@@ -27,6 +28,9 @@ I'm a freelancer full-stack developer and love to share my journey on the digita
     <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+<br />
+
+#
 
 
 
@@ -35,3 +39,4 @@ I'm a freelancer full-stack developer and love to share my journey on the digita
 ![KenC's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenC21&show_icons=true&theme=gruvbox)
 
 
+[youtube]: https://youtube.com/Studio80Eight
