@@ -33,9 +33,7 @@ I'm a freelancer full-stack developer and love to share my journey on the digita
 
 
 
-### 📊 Stats
 
-![KenC's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenC21&show_icons=true&theme=gruvbox)
 
 
 
