@@ -7,9 +7,6 @@
 I'm a freelancer full-stack developer and love to share my journey on the digital space. 
 
   <p align="left">
-        <a href="https://www.youtube.com/c/Studio80Eight?sub_confirmation=1">
-          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN9BbNXR2AyPVZ903FzMzsg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-      
-                badge&labelColor=CE4630"/></a> 
         <a href="https://github.com/KenC21?tab=followers">
             <img alt="followers" title="Follow me on Github" 
             src="https://custom-icon-badges.demolab.com/github/followers/KenC21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
